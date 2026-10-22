@@ -9,7 +9,6 @@ from Gift import Gift
 
 
 def main():
-
     # Create customers
     regular_customer = Customer(
         1, "John", "Doe",
@@ -79,3 +78,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
